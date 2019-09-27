@@ -1,0 +1,33 @@
+div.App {
+    background-image: url(img/amanda.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 793px;
+}
+.banner{
+    position:absolute;
+    top: 30%;
+    right: 10%;
+}
+.banner h2{
+    font-size: 40px;
+    color: #B71C1C;
+}
+button {
+    align-content: center;
+}
+h6{
+    position: absolute;
+    bottom: 0%;
+    right: 15%;
+}
+div p {
+    color: #B71C1C;
+}
+p span {
+    text-decoration: underline;
+}
+h5 {
+    color: #B71C1C;
+    font-size: 40px;
+}
