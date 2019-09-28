@@ -4,7 +4,7 @@ import Materialize from '../css/materialize.css'
 
 const Home = () => {
     return (
-        <div className="app">
+        <div className="amanda">
             <div className="banner center">
                 <h2>Welcome to Glamour Girls</h2>
                 <br />

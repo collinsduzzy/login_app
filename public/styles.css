@@ -1,13 +1,24 @@
-div.App {
+div.amanda {
     background-image: url(img/amanda.jpg);
     background-position: center;
     background-size: cover;
     min-height: 793px;
 }
+div.jenner {
+    background-image: url(img/jennifer.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 770px;
+}
 .banner{
     position:absolute;
     top: 30%;
     right: 10%;
+}
+.create{
+    position:absolute;
+    top: 20%;
+    left: 10%;
 }
 .banner h2{
     font-size: 40px;

@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class Form extends Component {
     render () {
         return (
-            <div className="app container banner">
+            <div className="amanda container banner">
                 <div className="row">
                     <div className="right col s5">
                         <h5>Enter your details</h5>
